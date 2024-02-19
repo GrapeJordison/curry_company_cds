@@ -1,7 +1,7 @@
 # bibliotecas necessárias
 import pandas as pd
 # cálculo distância entre pontos geográficos
-import haversine 
+from haversine import haversine 
 # gráfico
 import plotly.express as px
 import streamlit  as st
