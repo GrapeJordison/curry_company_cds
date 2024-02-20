@@ -1,5 +1,3 @@
-# Installing libraries
-pip install haversine
 
 # Bibliotecas
 import streamlit as st
