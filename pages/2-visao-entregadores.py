@@ -96,7 +96,7 @@ def top_delivers(df, ascendancy):
 # ====================================================
 # Import dataset
 # ====================================================
-df_raw = pd.read_csv('../datasets/train.csv')
+df_raw = pd.read_csv('train.csv')
 
 # Fazendo uma cópia do dataframe lido:
 df = df_raw.copy()
