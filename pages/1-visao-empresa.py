@@ -16,7 +16,7 @@ st.set_page_config(page_title='Visão Empresa', page_icon='📊', layout='wide')
 # ====================================================
 # Import dataset
 # ====================================================
-df_raw = pd.read_csv('../datasets/train.csv')
+df_raw = pd.read_csv('train.csv')
 
 # Fazendo uma cópia do dataframe lido:
 df = df_raw.copy()
