@@ -252,8 +252,6 @@ st.sidebar.markdown(' ### Powered by Comunidade DS')
 
 st.header('Marketplace - Visão Restaurantes')
 
-st.dataframe(df)
-
 tab1, tab2, tab3 = st.tabs(['Visão Gerencial','-','-'])
 
 with tab1:
