@@ -236,8 +236,6 @@ st.sidebar.markdown("""---""")
     
 st.sidebar.markdown(' ### Powered by Comunidade DS')
 
-st.dataframe(df)
-
 # ====================================================
 # Layout Sreamlit
 # ====================================================
