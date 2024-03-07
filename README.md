@@ -5,16 +5,13 @@ Cenário fictício usado para criação do dashboard durante a aula.
 
 ### **Indíce:**
 
-<a href='one'>**1. Problema de negócio** <br></a>
-<a href='#two'>**2. Premissas do negócio** <br></a>
-<a href='#three'>**3. Estratégia da solução** <br></a>
-<a href='#four'>**4. Top 3 Insights de dados** <br></a>
-<a href='#five'>**5. O produto final do projeto** <br></a>
-<a href='#six'>**6. Conclusão** <br></a>
-<a href='#seven'>**7. Próximo passos** <br></a>
-
-
-<div id='one'>
+**1. Problema de negócio** <br>
+**2. Premissas do negócio** <br>
+**3. Estratégia da solução** <br>
+**4. Top 3 Insights de dados** <br>
+**5. O produto final do projeto** <br>
+**6. Conclusão** <br>
+**7. Próximo passos** <br>
   
   ### **1. Problema de negócio**
   A Cury Company é uma empresa de tecnologia que criou um
@@ -71,7 +68,7 @@ Cenário fictício usado para criação do dashboard durante a aula.
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
   que exibam essas métricas da melhor forma possível para o CEO.<br>
   
-  </div>
+
 
 ### 2. Premissas assumidas para a análise
   1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.<br>
