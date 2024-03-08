@@ -3,6 +3,8 @@ This dashboard was a student project mine using a dataset from kaggle > https://
 
 Cenário fictício usado para criação do dashboard durante a aula.
 
+**Link para acessar o dashboard > https://curry-company-cds.streamlit.app/**
+
 ### **Indíce:**
 
 **1. Problema de negócio** <br>
@@ -126,8 +128,7 @@ Cenário fictício usado para criação do dashboard durante a aula.
 ### 5. O produto final do projeto
   Painel online, hospedado em um Cloud e disponível para acesso em
   qualquer dispositivo conectado à internet.<br>
-  O painel pode ser acessado através desse link: https://project-curry-
-  company.streamlit.app/<br>
+  O painel pode ser acessado através desse link: https://curry-company-cds.streamlit.app/
 
 ### 6. Conclusão
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
